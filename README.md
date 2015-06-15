@@ -1,7 +1,7 @@
 # Join Number 2048 game(https://github.com/gabrielecirulli/2048) with user login
 
 # To deploy this app, create a database with the name "number" and
-  run "number.sql".
+  run "number.sql"(under src/main/resources/).
 # Build the project using "Maven build" with JavaSE 8.
 # Deploy number.war on Tomcat 7 or 8.
 
