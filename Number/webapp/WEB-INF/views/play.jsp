@@ -30,18 +30,8 @@
 </head>
 <script>
 	var userId = ${userInfo.userId};
-	function deleteCookies() {	
-		alert(getCookie("JSESSIONID"));
-		if(getCookie("JSESSIONID")) {
-			createCookie("JSESSIONID", "", -1, "localhost", "localhost");
-		}
-
-				
-		    //var re = new RegExp('JSESSIONID' + "=([^;]+)");
-		   		  
-	}
 </script>
-<body onload="deleteCookies()">
+<body>
 	<div style="width: 400px; float: left;">
 		<table>
 			<tr>
