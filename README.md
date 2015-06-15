@@ -7,6 +7,6 @@
   
 # Technologies
   * Spring 4 Framework dependency injection.
-  * Struts or Spring MVC to handle the requests and web pages.
-  * Hibernate in data access layer.
+  * Spring MVC framework to handle the requests and Spring MVC tags at JSP pages(View).
+  * Hibernate 4 Framework in data access layer.
   * the project using Maven.
